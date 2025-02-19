@@ -16,7 +16,7 @@ A simple and clean portfolio website built using **HTML** and **CSS** to showcas
 - **CSS3**  
 
 ## Live Demo  
-[View the live site](#) _(Replace with your actual link)_  
+[View the live site](https://vazanth1811.github.io/portfolio-simple/)  
 
 ## Customization  
 You can edit the HTML and CSS files to personalize the design and content.  
